@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tornadotracker-dev-122022-authRole",
+      "UnauthRoleArn": "arn:aws:iam::674309489852:role/amplify-tornadotracker-dev-122022-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::674309489852:role/amplify-tornadotracker-dev-122022-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tornadotracker-dev-122022-deployment",
+      "UnauthRoleName": "amplify-tornadotracker-dev-122022-unauthRole",
+      "StackName": "amplify-tornadotracker-dev-122022",
+      "StackId": "arn:aws:cloudformation:us-east-1:674309489852:stack/amplify-tornadotracker-dev-122022/a1ca9ce0-acf4-11eb-bb8c-12fa5e526083",
+      "AmplifyAppId": "ds6vby8amy188"
+    }
+  }
+}
